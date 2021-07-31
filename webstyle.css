@@ -833,6 +833,7 @@ i.fa.fa-bars{
   width:20%;
   color: white;
   size:30%;
+  display:none;
 }
 .combine{
   display: none;
@@ -1190,7 +1191,7 @@ i.fa.fa-bars{
     width:100%;
   }
    .text4, .text6 ,.text5, .text2{
-      font-size:17px;
+      font-size:15px;
      
     }
   
