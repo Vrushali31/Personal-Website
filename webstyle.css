@@ -825,6 +825,7 @@ i{
 .button{
   margin-left:2%;
   width:30%;
+  display:none;
 
 }
 
@@ -1188,7 +1189,7 @@ i.fa.fa-bars{
   .list1 label li,.list2 label li{
     width:100%;
   }
-   .text4, .text6 ,.text5,.text2{
+   .text4, .text6 ,.text5, .text2{
       font-size:17px;
      
     }
