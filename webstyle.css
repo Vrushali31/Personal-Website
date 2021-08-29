@@ -842,7 +842,7 @@ i.fa.fa-bars{
 
 
 @media only screen and (max-width: 768px) and (min-width:500px){
-  .header{
+/*   .header{
     width:28%;
     position: fixed;
     
@@ -977,6 +977,60 @@ i.fa.fa-bars{
   }
   .social-icons{
     width:80%;
+  } */
+  
+   div.home { width: 100%; margin: 0px; padding: 10%; }
+  .header { display: none; }
+  .image { display: block; margin: 0px auto; }
+  #aboutme.image { margin: 0px auto; padding: 0px; display: block; }
+  div.text { margin: 15px auto; display: block; transform: unset; width: fit-content; }
+  div.about, div.academics, div.skills, div.hobbies, div.my_achievements, div.achievements, #left_right_div.achievements, div.portfolio, #a8.business, #a7.site-footer { margin: 0px; width: 100%; padding: 20px; transform: unset; }
+  div.hobbies { padding: 0px; }
+  .para { margin: 0px; text-align: justify; text-align-last: center; width: 100%;}
+  div.grid-container {
+     transform: unset;
+     grid-template-columns: auto;
+     width: 100%; }
+  .grid-item2 { display: block; margin: 0px auto; } 
+  .box ul { width: 100%; display: block; margin: 0px auto; padding: 15px; }
+  .box ul > li { width: 60%; }
+  ul > label { min-width: 80%; margin: 5px 15px;}
+  ul.social-icons, div.social-icons,.social-icons2 { width: 100%; padding: 0px; margin: 0px auto; text-align: center; }
+  div.card { width: 100%; }
+
+  .level,.info{
+    display:none;
+  }
+  .combine{
+    display: block;
+    margin:0px 0px;
+    width:75%;
+  }
+  .achievements{
+    width:50%;
+    height:250%;
+   
+  }
+  .grid-container2{
+    grid-template-columns: auto;
+
+  }
+  .business{
+    display: block;
+    margin: 0px auto;
+    width:100%;
+  }
+  .digi{
+    width:100%;
+  }
+  .cosmic{
+    display: none;
+  }
+  .pic{
+    display: block;
+  }
+  .list1 label li,.list2 label li{
+    width:100%;
   }
 }
   
